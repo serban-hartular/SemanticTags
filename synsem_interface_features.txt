@@ -1,0 +1,31 @@
+HUMAN   noun.person
+ANIMATE noun.person, noun.animal
+UNCOUNTABLE noun.substance
+RELATIONAL noun.relation
+QUANTIFIER noun.group, noun.quantity
+
+noun.act,4313,4839
+noun.animal,2050,2334
+noun.artifact,6569,6192
+noun.attribute,2012,2217
+noun.body,967,1190
+noun.cognition,1799,2091
+noun.communication,3066,3347
+noun.event,706,934
+noun.feeling,320,453
+noun.food,1123,1106
+noun.group,1429,1526
+noun.location,1989,2183
+noun.motive,27,42
+noun.object,912,1070
+noun.person,4887,5491
+noun.phenomenon,379,482
+noun.plant,1719,2227
+noun.possession,562,570
+noun.process,462,613
+noun.quantity,823,910
+noun.relation,263,317
+noun.shape,200,237
+noun.state,1743,2226
+noun.substance,1538,1864
+noun.time,651,710
